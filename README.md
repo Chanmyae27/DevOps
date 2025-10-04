@@ -1,4 +1,4 @@
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/Chanmyae27/DevOps/actions/workflows/main.yml/badge.svg)
 
 # Hello there
 
