@@ -26,7 +26,7 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
 
       - name: Unit Tests
-        run: mvn -Dtest=com.napier.devops.AppTest test  # Note: Double-check if this should be 'com.napier.sem.AppTest' based on your POM's groupId
+        run: mvn -Dtest=com.napier.sem.MyTest test  # Note: Double-check if this should be 'com.napier.sem.AppTest' based on your POM's groupId
 
       - name: Package and Run docker compose
         run: |
