@@ -8,4 +8,6 @@
 
 [![Releases](https://img.shields.io/github/release/Chanmyae27/devops/all.svg?style=flat-square)](https://github.com/Chanmyae27/DevOps/releases)
 
+[![codecov](https://codecov.io/github/Chanmyae27/DevOps/graph/badge.svg?token=VCICUHRY8D)](https://codecov.io/github/Chanmyae27/DevOps)
+
  
